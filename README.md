@@ -20,15 +20,16 @@
   <br>
   <p>
     <strong>
-      Computer Engineering Student, Cyber Security Consultant at Defenxor, Cyber Security Enthusiast, and Problem Solver.<br><br>
-      I am passionate about learning Cyber Security, Python Programming, and Linux.<br><br>
-      Detailed-oriented, responsible, and committed engineer, with a get-it-done, on-time, and high-quality spirit. Self and quick learner, self-motivated, and social.
+      Computer Engineering Student, Cyber Security Consultant.<br><br>
+      I am passionate and challenge seeker when it comes to offensive cyber security.<br><br>
+      Detailed-oriented, responsible, and committed engineer, with a get-it-done, on-time, and high-quality spirit. Self and quick learner something new, self-motivated, and social.
     </strong>
   </p>
   <ul>
-    <li>🔭 <b>I’m currently working on ...</b></li>
-    <li>🌱 <b>I’m currently learning ...</b></li>
-    <li>💬 <b>Ask me about ...</b></li>
+    <li>🔭 <b>I’m currently working on Defenxor as Cyber Security Consultant...</b></li>
+    <li>🌱 <b>I’m currently learning Cyber Security and Python Programming...</b></li>
+    <li>💬 <b>Ask me about ....</b></li>
+    <li>⚡ <b>Fun fact: I'am Single, LoL (-.-)</b></li>
   </ul>
 </div>
 

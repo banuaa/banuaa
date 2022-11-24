@@ -1,4 +1,36 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/HCkbgKLdLWq3OCV8YM/giphy.gif" width="300px" height="150px">
+  <h1>Muhammad Ichwan</h1>
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/muhammad-ichwan-banua/">
+      <img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn"/>
+    </a>
+    <a href="https://www.youtube.com/@muhammad.iwn-banua">
+      <img src="https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    </a>
+    <a href="https://banua.medium.com/">
+      <img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" alt="Medium Badge"/>
+    </a>
+    <a href="https://twitter.com/banuaa_">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+  </div>
+</div>
+<div align=left>
+  <br>
+  <p>
+    <strong>
+      Computer Engineering Student, Cyber Security Consultant at Defenxor, Cyber Security Enthusiast, and Problem Solver.<br><br>
+      I am passionate about learning Cyber Security, Python Programming, and Linux.<br><br>
+      Detailed-oriented, responsible, and committed engineer, with a get-it-done, on-time, and high-quality spirit. Self and quick learner, self-motivated, and social.
+    </strong>
+  </p>
+  <ul>
+    <li>🔭 <b>I’m currently working on ...</b></li>
+    <li>🌱 <b>I’m currently learning ...</b></li>
+    <li>💬 <b>Ask me about ...</b></li>
+  </ul>
+</div>
 
 <!--
 **banuaa/banuaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

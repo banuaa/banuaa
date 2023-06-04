@@ -26,7 +26,7 @@
     </strong>
   </p>
   <ul>
-    <li>🔭 <b>I’m currently working on [REDACTED] as Cyber Security Consultant...</b></li>
+    <li>🔭 <b>I’m currently working at [REDACTED] as Cyber Security Consultant...</b></li>
     <li>🌱 <b>I’m currently learning Web & Mobile Application Security and Python Programming...</b></li>
     <li>💬 <b>Ask me about ....!</b></li>
     <li>⚡ <b>Fun fact: Nothing (-.-)</b></li>
